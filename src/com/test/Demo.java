@@ -7,8 +7,7 @@ public class Demo {
 
     public void main(String []arg){
 
-        int i;
-        StringBuffer sb = new StringBuffer();
+        System.out.println("---测试main----");
 
     }
 }
